@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "wtf.fuckyou.catclient.mixin.mixins",
+  "refmap": "mixins.catclient.refmap.json",
+  "mixins": [],
+  "client": []
+}
